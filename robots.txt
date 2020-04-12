@@ -1,0 +1,8 @@
+
+#
+User-agent: *
+
+Disallow: /work_fees.html
+Disallow: /work/fees/
+#
+

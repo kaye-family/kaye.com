@@ -1,0 +1,80 @@
+<html>
+<title>kaye.com Order Form</title>
+<h1>kaye.com Order Form</h1>
+<form method="post" action="/cgi-bin/formmail.pl">
+<input type=hidden name="recipient" value="info@kaye.com">
+<input type=hidden name="subject" value="Order">
+<input type=hidden name="sort" value="order:Customer Name,Address,City,State,Telephone,Fax,e-mail,QTY line 1,QTY line 2,QTY line 3,QTY line 4,QTY line 5,QTY line 6,QTY line 7,QTY line 8,QTY line 8,QTY line 10,QTY line 11,QTY line 12,QTY line 13,QTY line 14,QTY line 15,pay by credit card,CC,card no,expiremonth,expireyear,pay by check">
+
+<hr>
+<b>Customer Information:</b><br><br>
+Customer Name: <input type="text" name="Customer Name" size="25" maxlength="25"><br>
+Address:      <input type="text" name="Address" size="35" maxlength="35"><br>
+City:         <input type="text" name="City" size="15" maxlength="15"> State: <input type="text" name="State" size="2" maxlength="2"> Zip: <input type="text" name="Zip" size="11" maxlength="11">
+Telephone:    <input type="text" name="Telephone" size="16" maxlength="16"><br>
+Fax:          <input type="text" name="Fax" size="16" maxlength="16"><br>
+E-mail:       <input type="text" name="email" size="20" maxlength="45"><br><br>
+
+<table border=5 width=600>
+<th colspan=6><h2>Product Order Form:</h2></th>
+<tr><td align=center><b>QTY</b></td><td align=center><b>SZ</b></td><td align=center><b>PRODUCT DESCRIPTION</b></TD><TD align=center><b>TYPE</b></TD><TD align=center><b>PRICE EA.</b></TD><TD align=center><b>TOTAL</b></TD></TR>
+
+<tr><td align=center><input type=text name = "QTY line 1" size=4></td><td align=center><input type=text name = "SZ line 1" size=4></td><td align=center><input type=text name = "Product Description line 1" size=25></TD><TD align=center><input type=text name = "Type line 1" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 1" size=10></TD><TD align=center>$<input type=text name = "Total line 1" size=10></TD></TR>
+<tr><td align=center><input type=text name = "QTY line 2" size=4></td><td align=center><input type=text name = "SZ line 2" size=4></td><td align=center><input type=text name = "Product Description line 2" size=25></TD><TD align=center><input type=text name = "Type line 2" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 2" size=10></TD><TD align=center>$<input type=text name = "Total line 2" size=10></TD></TR>
+<tr><td align=center><input type=text name = "QTY line 3" size=4></td><td align=center><input type=text name = "SZ line 3" size=4></td><td align=center><input type=text name = "Product Description line 3" size=25></TD><TD align=center><input type=text name = "Type line 3" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 3" size=10></TD><TD align=center>$<input type=text name = "Total line 3" size=10></TD></TR>
+<tr><td align=center><input type=text name = "QTY line 4" size=4></td><td align=center><input type=text name = "SZ line 4" size=4></td><td align=center><input type=text name = "Product Description line 4" size=25></TD><TD align=center><input type=text name = "Type line 4" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 4" size=10></TD><TD align=center>$<input type=text name = "Total line 4" size=10></TD></TR>
+<tr><td align=center><input type=text name = "QTY line 5" size=4></td><td align=center><input type=text name = "SZ line 5" size=4></td><td align=center><input type=text name = "Product Description line 5" size=25></TD><TD align=center><input type=text name = "Type line 5" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 5" size=10></TD><TD align=center>$<input type=text name = "Total line 5" size=10></TD></TR>
+<tr><td align=center><input type=text name = "QTY line 6" size=4></td><td align=center><input type=text name = "SZ line 6" size=4></td><td align=center><input type=text name = "Product Description line 6" size=25></TD><TD align=center><input type=text name = "Type line 6" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 6" size=10></TD><TD align=center>$<input type=text name = "Total line 6" size=10></TD></TR>
+<tr><td align=center><input type=text name = "QTY line 7" size=4></td><td align=center><input type=text name = "SZ line 7" size=4></td><td align=center><input type=text name = "Product Description line 7" size=25></TD><TD align=center><input type=text name = "Type line 7" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 7" size=10></TD><TD align=center>$<input type=text name = "Total line 7" size=10></TD></TR>
+<tr><td align=center><input type=text name = "QTY line 8" size=4></td><td align=center><input type=text name = "SZ line 8" size=4></td><td align=center><input type=text name = "Product Description line 8" size=25></TD><TD align=center><input type=text name = "Type line 8" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 8" size=10></TD><TD align=center>$<input type=text name = "Total line 8" size=10></TD></TR>
+<tr><td align=center><input type=text name = "QTY line 9" size=4></td><td align=center><input type=text name = "SZ line 9" size=4></td><td align=center><input type=text name = "Product Description line 9" size=25></TD><TD align=center><input type=text name = "Type line 9" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 9" size=10></TD><TD align=center>$<input type=text name = "Total line 9" size=10></TD></TR>
+<tr><td align=center><input type=text name = "QTY line 10" size=4></td><td align=center><input type=text name = "SZ line 10" size=4></td><td align=center><input type=text name = "Product Description line 10" size=25></TD><TD align=center><input type=text name = "Type line 10" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 10" size=10></TD><TD align=center>$<input type=text name = "Total line 10" size=10></TD></TR>
+<tr><td align=center><input type=text name = "QTY line 11" size=4></td><td align=center><input type=text name = "SZ line 11" size=4></td><td align=center><input type=text name = "Product Description line 11" size=25></TD><TD align=center><input type=text name = "Type line 11" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 11" size=10></TD><TD align=center>$<input type=text name = "Total line 11" size=10></TD></TR>
+<tr><td align=center><input type=text name = "QTY line 12" size=4></td><td align=center><input type=text name = "SZ line 12" size=4></td><td align=center><input type=text name = "Product Description line 12" size=25></TD><TD align=center><input type=text name = "Type line 12" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 12" size=10></TD><TD align=center>$<input type=text name = "Total line 12" size=10></TD></TR>
+<tr><td align=center><input type=text name = "QTY line 13" size=4></td><td align=center><input type=text name = "SZ line 13" size=4></td><td align=center><input type=text name = "Product Description line 13" size=25></TD><TD align=center><input type=text name = "Type line 13" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 13" size=10></TD><TD align=center>$<input type=text name = "Total line 13" size=10></TD></TR>
+<tr><td align=center><input type=text name = "QTY line 14" size=4></td><td align=center><input type=text name = "SZ line 14" size=4></td><td align=center><input type=text name = "Product Description line 14" size=25></TD><TD align=center><input type=text name = "Type line 14" size=6></TD><TD align=center>$<input type=text name = "Price Ea line 14" size=10></TD><TD align=center>$<input type=text name = "Total line 14" size=10></TD></TR>
+</TABLE><br>
+<b>Payment Options</b><br><br>
+<input type="checkbox" name="pay by credit card" value="yes" checked><b>Pay by Credit Card</b>
+<ul>
+<b>Card: <select name="CC">
+<option>MasterCard 
+<option>Visa 
+<option>American Express 
+<option>Discover</select> 
+Card Number: <input type="text" name="card no" size="20" maxlength="20"> <br>
+Expiration Date: <select name="expiremonth">
+<option SELECTED>January
+<option>February
+<option>March
+<option>April
+<option>May
+<option>June
+<option>July
+<option>August
+<option>September
+<option>October
+<option>November
+<option>December
+</select>
+<select name="expireyear">
+<option>1995
+<option>1996
+<option>1997
+<option SELECTED>1998
+<option>1999
+<option>2000
+<option>2001<option>2002
+</select></ul></b>
+<input type="checkbox" name="pay by check" value="yes"><b>Pay by Check</b>
+<p>Please send the total amount to:<br><br>
+
+<b>YOUR ADDRESS HERE</B><BR>
+<h1><i><p>Thank You For Your Order!</p></i></h1>
+<input type="submit" value="Submit Order">
+</form>
+
+<hr><i><h6>Web page created and maintained by <a href="http://www.adgrafix.com">Adgrafix</a> copyright 1995.  All rights reserved.</h6></i>
+
+
+</html>

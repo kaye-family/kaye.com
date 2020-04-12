@@ -1,0 +1,195 @@
+{
+"classname" "worldspawn"
+"wad" "TEXTURES.wad"
+{
+( -448 512 192 ) ( 576 512 192 ) ( 576 -512 192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -448 512 192 ) ( -448 -512 192 ) ( -448 -512 -192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 576 512 -192 ) ( 576 -512 -192 ) ( 576 -512 192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 576 512 192 ) ( -448 512 192 ) ( -448 512 -192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 576 -512 -192 ) ( -448 -512 -192 ) ( -448 -512 192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 544 -480 160 ) ( 544 480 160 ) ( -416 480 160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+}
+{
+( -448 -512 -192 ) ( 576 -512 -192 ) ( 576 512 -192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -448 512 192 ) ( -448 -512 192 ) ( -448 -512 -192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 576 512 -192 ) ( 576 -512 -192 ) ( 576 -512 192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 576 512 192 ) ( -448 512 192 ) ( -448 512 -192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 576 -512 -192 ) ( -448 -512 -192 ) ( -448 -512 192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 544 480 -160 ) ( 544 -480 -160 ) ( -416 -480 -160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+}
+{
+( -448 512 192 ) ( -448 -512 192 ) ( -448 -512 -192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 576 512 192 ) ( -448 512 192 ) ( -448 512 -192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 576 -512 -192 ) ( -448 -512 -192 ) ( -448 -512 192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -416 480 160 ) ( 544 480 160 ) ( 544 -480 160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -416 -480 -160 ) ( 544 -480 -160 ) ( 544 480 -160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -416 -480 -160 ) ( -416 -480 160 ) ( -416 480 160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+}
+{
+( 576 512 -192 ) ( 576 -512 -192 ) ( 576 -512 192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 576 512 192 ) ( -448 512 192 ) ( -448 512 -192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 576 -512 -192 ) ( -448 -512 -192 ) ( -448 -512 192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -416 480 160 ) ( 544 480 160 ) ( 544 -480 160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -416 -480 -160 ) ( 544 -480 -160 ) ( 544 480 -160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 544 -480 160 ) ( 544 -480 -160 ) ( 544 480 -160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+}
+{
+( 576 512 192 ) ( -448 512 192 ) ( -448 512 -192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -416 480 160 ) ( 544 480 160 ) ( 544 -480 160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -416 -480 -160 ) ( 544 -480 -160 ) ( 544 480 -160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -416 480 160 ) ( -416 -480 160 ) ( -416 -480 -160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 544 480 -160 ) ( 544 -480 -160 ) ( 544 -480 160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -416 480 -160 ) ( -416 480 160 ) ( 544 480 160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+}
+{
+( 576 -512 -192 ) ( -448 -512 -192 ) ( -448 -512 192 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -416 480 160 ) ( 544 480 160 ) ( 544 -480 160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -416 -480 -160 ) ( 544 -480 -160 ) ( 544 480 -160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -416 480 160 ) ( -416 -480 160 ) ( -416 -480 -160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( 544 480 -160 ) ( 544 -480 -160 ) ( 544 -480 160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+( -416 -480 160 ) ( -416 -480 -160 ) ( 544 -480 -160 ) AFLOOR3_1 0 0 0 1.000000 1.000000
+}
+{
+( 32 448 -144 ) ( 96 448 -144 ) ( 96 384 -144 ) AFLOOR1_8 0 -32 0 1.000000 1.000000
+( 32 384 -160 ) ( 96 384 -160 ) ( 96 448 -160 ) AFLOOR1_8 0 -32 0 1.000000 1.000000
+( 32 448 -144 ) ( 32 384 -144 ) ( 32 384 -160 ) AFLOOR1_8 32 0 0 1.000000 1.000000
+( 96 448 -160 ) ( 96 384 -160 ) ( 96 384 -144 ) AFLOOR1_8 32 0 0 1.000000 1.000000
+( 96 448 -144 ) ( 32 448 -144 ) ( 32 448 -160 ) AFLOOR1_8 0 0 0 1.000000 1.000000
+( 96 384 -160 ) ( 32 384 -160 ) ( 32 384 -144 ) AFLOOR1_8 0 0 0 1.000000 1.000000
+}
+{
+( 32 -384 -144 ) ( 96 -384 -144 ) ( 96 -448 -144 ) AFLOOR1_8 0 -32 0 1.000000 1.000000
+( 32 -448 -160 ) ( 96 -448 -160 ) ( 96 -384 -160 ) AFLOOR1_8 0 -32 0 1.000000 1.000000
+( 32 -384 -144 ) ( 32 -448 -144 ) ( 32 -448 -160 ) AFLOOR1_8 32 0 0 1.000000 1.000000
+( 96 -384 -160 ) ( 96 -448 -160 ) ( 96 -448 -144 ) AFLOOR1_8 32 0 0 1.000000 1.000000
+( 96 -384 -144 ) ( 32 -384 -144 ) ( 32 -384 -160 ) AFLOOR1_8 0 0 0 1.000000 1.000000
+( 96 -448 -160 ) ( 32 -448 -160 ) ( 32 -448 -144 ) AFLOOR1_8 0 0 0 1.000000 1.000000
+}
+}
+{
+"classname" "info_player_start"
+"origin" "64 0 -64"
+}
+{
+"classname" "light"
+"light" "500"
+"origin" "64 0 0"
+}
+{
+"classname" "info_player_teamspawn"
+"netname" "spawn1"
+"team_no" "1"
+"goal_activation" "2"
+"message" "death to the undead, again!\n"
+"origin" "64 -416 64"
+}
+{
+"classname" "info_player_teamspawn"
+"netname" "spawn2"
+"team_no" "4"
+"goal_activation" "2"
+"message" "feast upon the living!\n"
+"origin" "64 416 64"
+}
+{
+"classname" "item_tfgoal"
+"netname" "flag1"
+"goal_activation" "661"
+"skin" "1"
+"mdl" "progs/tf_flag.mdl"
+"noise" "doors/meduse.wav"
+"team_no" "4"
+"goal_result" "16"
+"goal_no" "1"
+"owned_by" "1"
+"goal_effects" "1"
+"items" "4194304"
+"pausetime" "30"
+"message" "You have the book!  Return it to the Army of Darkness!\n"
+"netname_broadcast" " has the Necronomicon!\n"
+"origin" "64 -352 -128"
+}
+{
+"classname" "info_tfgoal"
+"netname" "return2"
+"increase_team4" "10"
+"origin" "64 416 -128"
+}
+{
+"classname" "info_tfgoal"
+"netname" "sacrifice"
+"goal_no" "2"
+"owned_by" "4"
+"noise" "doors/meduse.wav"
+"goal_activation" "1"
+"team_no" "1"
+"wait" "2"
+"goal_effects" "1"
+"increase_team1" "10"
+"goal_result" "16"
+"health" "-999"
+"message" " your soul has gone on to the realm of the dead!\n"
+"netname_broadcast" " sent his soul to destroy the undead!\n"
+"mdl" "progs/m_g_key.mdl"
+"origin" "64 352 -128"
+}
+{
+"classname" "info_tfgoal"
+"netname" "charge1"
+"owned_by" "1"
+"mdl" "progs/backpack.mdl"
+"noise" "weapons/pkup.wav"
+"goal_activation" "1"
+"team_no" "1"
+"wait" "2"
+"goal_effects" "1"
+"goal_result" "16"
+"armorvalue" "50"
+"health" "50"
+"ammo_shells" "50"
+"ammo_nails" "50"
+"ammo_rockets" "50"
+"ammo_cells" "50"
+"ammo_detpack" "1"
+"ammo_medikit" "1"
+"no_grenades_1" "5"
+"no_grenades_2" "5"
+"message" "go get some!\n"
+"origin" "128 416 -128"
+}
+{
+"classname" "info_tfgoal"
+"netname" "charge2"
+"owned_by" "4"
+"mdl" "progs/backpack.mdl"
+"noise" "weapons/pkup.wav"
+"goal_activation" "1"
+"team_no" "4"
+"wait" "2"
+"goal_effects" "1"
+"goal_result" "16"
+"armorvalue" "50"
+"health" "50"
+"ammo_shells" "50"
+"ammo_nails" "50"
+"ammo_rockets" "50"
+"ammo_cells" "50"
+"ammo_detpack" "1"
+"ammo_medikit" "1"
+"no_grenades_1" "5"
+"no_grenades_2" "5"
+"message" "sally forth!\n"
+"origin" "0 -416 -128"
+}
+{
+"classname" "info_tfdetect"
+"netname" ""
+"hook_out" "1"
+"impulse" "68"
+"team_broadcast" "PICK YOUR TEAM:\n-=[1 - ASH'S KNIGHTS]=-\n-=[4 - ARMY OF DARKNESS]=-\n"
+"maxammo_shells" "489"
+"maxammo_nails" "-1"
+"maxammo_rockets" "-1"
+"maxammo_cells" "656"
+"origin" "0 0 0"
+}

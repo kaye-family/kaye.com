@@ -1,0 +1,980 @@
+<?xml version="1.0"?>
+<presentation title="Uncertain Trust" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{100B1991-9432-4FF9-B411-1705B1BBD881}">
+	<presenters/>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="1489798" duration="148950"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="1446435" duration="144613"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="1206370" duration="120607"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="522484" duration="52218"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="558272" duration="55797"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="168264" duration="16796"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="789455" duration="78915"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="568982" duration="56868"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="114713" duration="11441"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="258125" duration="25782"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="535284" duration="53498"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="317945" duration="31764"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="559055" duration="55875"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="658843" duration="65854"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="1185472" duration="118517"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="597717" duration="59742"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="78664" duration="7836"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="110011" duration="10971"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="26157" duration="2586"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="51496" duration="5120"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="267268" duration="26697"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="3448198" duration="344790"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="4154027" duration="415373"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="932868" duration="93257"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="4786451" duration="478615"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="1309815" duration="130951"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="3139953" duration="313965"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="5169668" duration="516937"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="148.9040070"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="3" timeOffset="50.6839943"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="3" timeOffset="3.3080020"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="52.1769981"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="55.7700005"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="3" timeOffset="3.3389993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="78.8850021"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="56.8400002"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="11.3959999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="3" timeOffset="7.9669994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="3" timeOffset="26.6290019"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="1" timeOffset="9.6330013"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="6" timeOffset="29.7770023"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="65.8199997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="118.4779968"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="59.7000008"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="7.7989998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="10.9200001"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="2.5590000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="5.0920000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="26.6560001"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="3" timeOffset="258.3929939"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="4" timeOffset="401.2240014"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="93.2170029"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="2" timeOffset="436.2860019"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="130.9239960"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="12" timeOffset="117.6889987"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="516.8940000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>false</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>false</numberEntries>
+				<highlightViewedEntries>false</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>true</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1"/>
+		<playback autoStart="1" resumePresentationPlayback="0" syncWithVideoNarration="1" enableVideoControl="1"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="“Trust Me” Helping Our Young Adults Financially" titleNormalized="“trust me” helping our young adults financially" src="slide1.swf" size="7676" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="148.9030070"/>
+			</animationSteps>
+			<notes>Note cards as used at University Club 4/25/2013:
+
+Thanks to host, nice to see clients in audience
+Nice to talk about how to avoid some of the problems families bring me in to deal with conflict</notes>
+			<notesNormalized>note cards as used at university club 4/25/2013:
+
+thanks to host, nice to see clients in audience
+nice to talk about how to avoid some of the problems families bring me in to deal with conflict</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="18"&gt;Note cards as used at University Club 4/25/2013:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt;Thanks to host, nice to see clients in audience&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt;Nice to talk about how to avoid some of the problems families bring me in to deal with conflict&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>“Trust Me” Helping Our Young Adults Financially
+Kenneth Kaye, Ph.D.
+</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="7401" advanceOnTime="1" framesCount="4" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.4339995"/>
+				<step start="1" end="1" playTime="0.0010000" pauseTime="22.7329993"/>
+				<step start="2" end="2" playTime="0.0010000" pauseTime="39.7270006"/>
+				<step start="3" end="3" playTime="0.0010000" pauseTime="50.6829943"/>
+			</animationSteps>
+			<notes>“Parent’s opps” means we want them to have many of the costly things that we hope will enhance their development, so we migh err on the side of yes.
+
+See hands of those with children or grandchn 16+
+How many at lest one responsibly seeks and follows instruction and advice about money matters
+How many “other”:
+
+ </notes>
+			<notesNormalized>“parent’s opps” means we want them to have many of the costly things that we hope will enhance their development, so we migh err on the side of yes.
+
+see hands of those with children or grandchn 16+
+how many at lest one responsibly seeks and follows instruction and advice about money matters
+how many “other”:
+
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="18"&gt;“Parent’s opps” means we want them to have many of the costly things that we hope will enhance their development, so we migh err on the side of yes.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt;See hands of those with children or grandchn 16+&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt;How many at lest one responsibly seeks and follows instruction and advice about money matters&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt;How many “other”:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Nice problems to have:
+Children’s expectations
+Parents’ opportunities
+Leadership needs</text>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="7365" advanceOnTime="1" framesCount="4" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="101.4400019"/>
+				<step start="1" end="1" playTime="0.0010000" pauseTime="5.7620000"/>
+				<step start="2" end="2" playTime="0.0010000" pauseTime="10.0499996"/>
+				<step start="3" end="3" playTime="0.0010000" pauseTime="3.3070020"/>
+			</animationSteps>
+			<notes>Others (panl) gave us a lot of wisdom.  My job is to explain the psychological underpinnings, what’s going on when we get it right, and when we have trouble making the yes/no decisions</notes>
+			<notesNormalized>others (panl) gave us a lot of wisdom. my job is to explain the psychological underpinnings, what’s going on when we get it right, and when we have trouble making the yes/no decisions</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Others (panl) gave us a lot of wisdom.  My job is to explain the psychological underpinnings, what’s going on when we get it right, and when we have trouble making the yes/no decisions&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Review: Basic Human Development
+Basic Financial Maturity
+Advanced Course: AMD and its Antidotes</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="128616" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="52.1759981"/>
+			</animationSteps>
+			<notes>We are mammals </notes>
+			<notesNormalized>we are mammals</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;We are mammals &lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="135875" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="55.7690005"/>
+			</animationSteps>
+			<notes>Here’s why he has to keep up with the mother.
+My birth canal metaphor for all of child dev</notes>
+			<notesNormalized>here’s why he has to keep up with the mother.
+my birth canal metaphor for all of child dev</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Here’s why he has to keep up with the mother.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;My birth canal metaphor for all of child dev&lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="89120" advanceOnTime="1" framesCount="76" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="48" playTime="2.0000000" pauseTime="6.1250000"/>
+				<step start="49" end="61" playTime="0.5000000" pauseTime="1.6840000"/>
+				<step start="62" end="74" playTime="0.5000000" pauseTime="2.5999999"/>
+				<step start="75" end="75" playTime="0.0010000" pauseTime="3.3379993"/>
+			</animationSteps>
+			<notes>It’s not only the time scale, that’s different from great majority of other mammals, it’s that our children remain an integral part of ourlives asdo we theirs, ideally
+
+But not like this</notes>
+			<notesNormalized>it’s not only the time scale, that’s different from great majority of other mammals, it’s that our children remain an integral part of ourlives asdo we theirs, ideally
+
+but not like this</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;It’s not only the time scale, that’s different from great majority of other mammals, it’s that our children remain an integral part of ourlives asdo we theirs, ideally&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;But not like this&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>child
+Elder
+ADULT
+Younger
+ADULT
+ADULT</text>
+		</slide>
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="9237" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="78.8840021"/>
+			</animationSteps>
+			<notes>partnership</notes>
+			<notesNormalized>partnership</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;partnership&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>child
+Elder
+ADULT
+Younger
+ADULT
+ADULT</text>
+		</slide>
+		<slide index="7" title="Trusting = Risk !" titleNormalized="trusting = risk !" src="slide8.swf" size="7064" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="56.8390002"/>
+			</animationSteps>
+			<notes>A risk management process 
+Unique to humans</notes>
+			<notesNormalized>a risk management process 
+unique to humans</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="20"&gt;A risk management process &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;Unique to humans&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Trusting = Risk !</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="9053" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.3949999"/>
+			</animationSteps>
+			<notes>Familiar – low risk, low return</notes>
+			<notesNormalized>familiar – low risk, low return</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="20"&gt;Familiar – low risk, low return&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>●
+Measure of risk in investments 
+Annualized rate of return 
+SUCCESSFUL INVESTOR CHOICES 
+●
+●
+●
+●
+conservative
+aggressive</text>
+		</slide>
+		<slide index="9" title="" titleNormalized="" src="slide10.swf" size="8651" advanceOnTime="1" framesCount="4" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.6970000"/>
+				<step start="1" end="1" playTime="0.0010000" pauseTime="2.7439999"/>
+				<step start="2" end="2" playTime="0.0010000" pauseTime="1.3300000"/>
+				<step start="3" end="3" playTime="0.0010000" pauseTime="7.9659994"/>
+			</animationSteps>
+			<notes>Take them through these slides about parenting for trustworthiness about everything: money, internet use, not sharing family $$ info, etc</notes>
+			<notesNormalized>take them through these slides about parenting for trustworthiness about everything: money, internet use, not sharing family $$ info, etc</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Take them through these slides about parenting for trustworthiness about everything: money, internet use, not sharing family $$ info, etc&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>How far to trust my child 
+Safe! 
+DANGER ! HIGH RISK
+PARENT’S DILEMMA
+No trust
+Complete trust
+but NO LEARNING</text>
+		</slide>
+		<slide index="10" title="" titleNormalized="" src="slide11.swf" size="9811" advanceOnTime="1" framesCount="4" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.2929997"/>
+				<step start="1" end="1" playTime="0.0010000" pauseTime="2.5750000"/>
+				<step start="2" end="2" playTime="0.0010000" pauseTime="10.9629997"/>
+				<step start="3" end="3" playTime="0.0010000" pauseTime="26.6280019"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>DANGER ! HIGH RISK
+OPPORTUNITY WASTED
+PARENT’S DILEMMA
+Child’s reliability
+not reliable
+very reliable
+How much to trust my child 
+Safe, 
+NO LEARNING
+productive human capital</text>
+		</slide>
+		<slide index="11" title="" titleNormalized="" src="slide12.swf" size="18172" advanceOnTime="1" framesCount="74" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.0799994"/>
+				<step start="1" end="73" playTime="3.0000000" pauseTime="6.6330013"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>RELATIONSHIP DEVELOPMENT
+productive human capital
+Other’s reliability
+not reliable
+very reliable
+How much to rely on Other 
+Safe, 
+but USELESS</text>
+		</slide>
+		<slide index="12" title="" titleNormalized="" src="slide13.swf" size="48504" advanceOnTime="1" framesCount="127" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.9560000"/>
+				<step start="1" end="25" playTime="1.0000000" pauseTime="3.4559999"/>
+				<step start="26" end="50" playTime="1.0000000" pauseTime="0.3110000"/>
+				<step start="51" end="75" playTime="1.0000000" pauseTime="0.2650000"/>
+				<step start="76" end="100" playTime="1.0000000" pauseTime="3.9419999"/>
+				<step start="101" end="125" playTime="1.0000000" pauseTime="12.1289997"/>
+				<step start="126" end="126" playTime="0.0010000" pauseTime="29.7760023"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>RELATIONSHIP DEVELOPMENT
+Other’s reliability
+not reliable
+very reliable
+How much to rely on Other 
+Safe, 
+but USELESS
+risk (test) a little responsibility/authority
+a little more
+a little more
+a little more
+trained and reliable partner
+a little more</text>
+		</slide>
+		<slide index="13" title="" titleNormalized="" src="slide14.swf" size="11623" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="65.8189997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>GRANTING FREEDOM TO YOUTH
+Youth’s Proven Responsibility
+not yet reliable
+very reliable
+Reliance on Youth’s Responsibility 
+safe, 
+but no development
+risk (test) a little responsibility/authority
+a little more
+a little more
+a little more
+mutually trusted
+a little more
+Elder
+ADULT
+Younger
+ADULT</text>
+		</slide>
+		<slide index="14" title="Trust the Process !" titleNormalized="trust the process !" src="slide15.swf" size="7067" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="118.4769968"/>
+			</animationSteps>
+			<notes>Which works both ways –
+Employees and owners, parents and children, current board and successor candidates, etc
+Our instinct is to TRUST – that’s the default. It’s actually being cautious that’s against ou instincts. Reaction to being disappointed is to go all the way to the opposite extreme, of distrust.
+We want trusting our kids to be easy – but there’s no reason it should be. There’s too much to acquire culturally rather than instinctively, for it to be easy</notes>
+			<notesNormalized>which works both ways –
+employees and owners, parents and children, current board and successor candidates, etc
+our instinct is to trust – that’s the default. it’s actually being cautious that’s against ou instincts. reaction to being disappointed is to go all the way to the opposite extreme, of distrust.
+we want trusting our kids to be easy – but there’s no reason it should be. there’s too much to acquire culturally rather than instinctively, for it to be easy</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="20"&gt;Which works both ways –&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;Employees and owners, parents and children, current board and successor candidates, etc&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;Our instinct is to TRUST – that’s the default. It’s actually being cautious that’s against ou instincts. Reaction to being disappointed is to go all the way to the opposite extreme, of distrust.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;We want trusting our kids to be easy – but there’s no reason it should be. There’s too much to acquire culturally rather than instinctively, for it to be easy&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Trust the Process !</text>
+		</slide>
+		<slide index="15" title="" titleNormalized="" src="slide16.swf" size="17018" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="59.6990008"/>
+			</animationSteps>
+			<notes>Other examples</notes>
+			<notesNormalized>other examples</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Other examples&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Lover’s reliance on Other ( vulnerable)
+OPPORTUNITY WASTED
+COURTSHIP
+productive relationship
+Other’s reliability
+not reliable
+very reliable
+play it safe
+DANGER ! HIGH RISK</text>
+		</slide>
+		<slide index="16" title="" titleNormalized="" src="slide17.swf" size="17150" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.7979998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>productive human capital
+ENTERPRISE AT RISK: inadequate new leaders
+ENTERPRISE AT RISK: no qualified successors
+LEADERSHIP SUCCESSION PROCESS
+Successors’ proven readiness to lead
+not reliable
+very reliable
+Authority invested in successor(s) 
+Safe, 
+but USELESS</text>
+		</slide>
+		<slide index="17" title="" titleNormalized="" src="slide18.swf" size="16895" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.9190001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>educated to potential
+Child or young adult doomed to fail
+OPPORTUNITY WASTED
+SCHOOL PROMOTION: AGE or ACHIEVEMENT?
+School achievement
+below grade level
+above grade level
+ Advance to next level 
+educationally wise, 
+but UNPOPULAR</text>
+		</slide>
+		<slide index="18" title="" titleNormalized="" src="slide19.swf" size="16788" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.5580000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>no-threat citizen
+DANGER to society
+WASTE of public funds and human life
+PAROLE BOARD DECISION
+Likelihood of recidivism 
+high
+very low
+never parole early parole
+Safe, 
+but COSTLY</text>
+		</slide>
+		<slide index="19" title="" titleNormalized="" src="slide20.swf" size="17044" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.0910000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>added human capital for US
+DANGER to society
+opportunity costs and WASTE of public funds
+IMMIGRATION POLICY
+Immigrant value
+security threat or social liability
+no threat, useful assets
+bar the door open door
+Safe (?) 
+but COSTLY</text>
+		</slide>
+		<slide index="20" title="" titleNormalized="" src="slide21.swf" size="16883" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.6550001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>South Korea’s concessions
+OPPORTUNITY WASTED
+“TRUSTPOLITIK” (President Park Geun-hye)
+productive relationship
+North Korea’s behavior
+aggressive
+cooperative
+play it safe
+DANGER ! HIGH RISK</text>
+		</slide>
+		<slide index="21" title="" titleNormalized="" src="slide22.swf" size="7413" advanceOnTime="1" framesCount="4" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.1980013"/>
+				<step start="1" end="1" playTime="0.0010000" pauseTime="29.6839995"/>
+				<step start="2" end="2" playTime="0.0010000" pauseTime="24.4670004"/>
+				<step start="3" end="3" playTime="0.0010000" pauseTime="258.3919939"/>
+			</animationSteps>
+			<notes>Denial on both sides.
+
+Give me some examples of your concerns (this didn’t work well, I had to give examples:
+How much allowance at age 12?
+At what age should a trust distribute?
+At what age tell kids what they are “worth” (and please don’t phrase it like that)
+Should parents buy a condo for a college student?
+Pay for married daughter’s home?
+Answers:  It all depends – where you are on the trusting process, in general and specifically, is one of the factors on which it depends</notes>
+			<notesNormalized>denial on both sides.
+
+give me some examples of your concerns (this didn’t work well, i had to give examples:
+how much allowance at age 12?
+at what age should a trust distribute?
+at what age tell kids what they are “worth” (and please don’t phrase it like that)
+should parents buy a condo for a college student?
+pay for married daughter’s home?
+answers: it all depends – where you are on the trusting process, in general and specifically, is one of the factors on which it depends</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Denial on both sides.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Give me some examples of your concerns (this didn’t work well, I had to give examples:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;How much allowance at age 12?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;At what age should a trust distribute?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;At what age tell kids what they are “worth” (and please don’t phrase it like that)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Should parents buy a condo for a college student?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Pay for married daughter’s home?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Answers:  It all depends – where you are on the trusting process, in general and specifically, is one of the factors on which it depends&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Basic Financial Maturity
+Knowledge plus ?
+Confidence + Caution
+Beware wishful DENIAL</text>
+		</slide>
+		<slide index="22" title="" titleNormalized="" src="slide23.swf" size="7539" advanceOnTime="1" framesCount="5" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9809999"/>
+				<step start="1" end="1" playTime="0.0010000" pauseTime="2.7699999"/>
+				<step start="2" end="2" playTime="0.0010000" pauseTime="1.7299999"/>
+				<step start="3" end="3" playTime="0.0010000" pauseTime="4.6360001"/>
+				<step start="4" end="4" playTime="0.0010000" pauseTime="401.2230014"/>
+			</animationSteps>
+			<notes>When you make rules about $$ (like those the panel mentioned), you aren’t merely teaching about money – you’re teaching about responsibility in general and you are also teaching that when you make a Deal, you mean it.</notes>
+			<notesNormalized>when you make rules about $$ (like those the panel mentioned), you aren’t merely teaching about money – you’re teaching about responsibility in general and you are also teaching that when you make a deal, you mean it.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;When you make rules about $$ (like those the panel mentioned), you aren’t merely teaching about money – you’re teaching about responsibility in general and you are also teaching that when you make a Deal, you mean it.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Family Rules must be:
+Clear
+Written
+Consistent with parents’ values
+Enforceable (and consistently enforced)</text>
+		</slide>
+		<slide index="23" title="" titleNormalized="" src="slide24.swf" size="7403" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="93.2160029"/>
+			</animationSteps>
+			<notes>“Money doesn’t spoil children, parents do (sorry for paraphrasing NRA)
+
+How would you structure a Deal for the child to earn something you don’t want them to have? Answer: Don’t.
+
+There’s nothing wrong with using $$ to manipulate children as long as they get something they want and something you want them to have.
+
+A debit card is a Deal.
+
+Hope’s car is a common example. And I didn’t do the same for my son!</notes>
+			<notesNormalized>“money doesn’t spoil children, parents do (sorry for paraphrasing nra)
+
+how would you structure a deal for the child to earn something you don’t want them to have? answer: don’t.
+
+there’s nothing wrong with using $$ to manipulate children as long as they get something they want and something you want them to have.
+
+a debit card is a deal.
+
+hope’s car is a common example. and i didn’t do the same for my son!</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;“Money doesn’t spoil children, parents do (sorry for paraphrasing NRA)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;How would you structure a Deal for the child to earn something you don’t want them to have? Answer: Don’t.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;There’s nothing wrong with using $$ to manipulate children as long as they get something they want and something you want them to have.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;A debit card is a Deal.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Hope’s car is a common example. And I didn’t do the same for my son!&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Financial Deals must be:
+Clear
+Written
+Consistent with parents’ values
+Enforceable (and enforced)</text>
+		</slide>
+		<slide index="24" title="" titleNormalized="" src="slide25.swf" size="7388" advanceOnTime="1" framesCount="3" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="38.9910006"/>
+				<step start="1" end="1" playTime="0.0010000" pauseTime="3.2859999"/>
+				<step start="2" end="2" playTime="0.0010000" pauseTime="436.2850019"/>
+			</animationSteps>
+			<notes>When would you use one and not the other?</notes>
+			<notesNormalized>when would you use one and not the other?</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;When would you use one and not the other?&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Loan  terms of repayment
+
+Gift = no strings
+
+Grant = restricted gift</text>
+		</slide>
+		<slide index="25" title="" titleNormalized="" src="slide26.swf" size="7119" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="130.9229960"/>
+			</animationSteps>
+			<notes>How many have a kid with ADD?
+
+Other causes of AMD: depression, addicition of course, low self-esteem for any reason
+Or simply having been prematurely, unwisely over-trusted</notes>
+			<notesNormalized>how many have a kid with add?
+
+other causes of amd: depression, addicition of course, low self-esteem for any reason
+or simply having been prematurely, unwisely over-trusted</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;How many have a kid with ADD?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Other causes of AMD: depression, addicition of course, low self-esteem for any reason&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Or simply having been prematurely, unwisely over-trusted&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>
+Advanced Course: AMD and its Antidotes</text>
+		</slide>
+		<slide index="26" title="Mike’s Deal" titleNormalized="mike’s deal" src="slide27.swf" size="268341" advanceOnTime="1" framesCount="205" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="101.0820002"/>
+				<step start="1" end="1" playTime="0.0010000" pauseTime="1.1670000"/>
+				<step start="2" end="2" playTime="0.0010000" pauseTime="2.1520001"/>
+				<step start="3" end="3" playTime="0.0010000" pauseTime="2.8419999"/>
+				<step start="4" end="4" playTime="0.0010000" pauseTime="8.6679997"/>
+				<step start="5" end="29" playTime="1.0000000" pauseTime="26.3209991"/>
+				<step start="30" end="54" playTime="1.0000000" pauseTime="15.9099998"/>
+				<step start="55" end="79" playTime="1.0000000" pauseTime="2.2090001"/>
+				<step start="80" end="104" playTime="1.0000000" pauseTime="20.3889999"/>
+				<step start="105" end="129" playTime="1.0000000" pauseTime="1.8850000"/>
+				<step start="130" end="154" playTime="1.0000000" pauseTime="2.2600000"/>
+				<step start="155" end="179" playTime="1.0000000" pauseTime="4.3559999"/>
+				<step start="180" end="204" playTime="1.0000000" pauseTime="116.6889987"/>
+			</animationSteps>
+			<notes>Explain that it’s just a specific example, the reasoning I use. 
+Encourage questions, objections: “I see some anxioous or restless faces”</notes>
+			<notesNormalized>explain that it’s just a specific example, the reasoning i use. 
+encourage questions, objections: “i see some anxioous or restless faces”</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Explain that it’s just a specific example, the reasoning I use. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Encourage questions, objections: “I see some anxioous or restless faces”&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Mike’s Deal
+Parents agree to:
+
+Loan enough to reconnect phone and internet and cover this month’s bills.
+Mom will do Mike’s banking.
+Mike agrees to:
+
+Mom paying monthly bills first out of each paycheck.
+Then repay a minimum of $100 back to parents.
+Completed when:
+
+Loan repaid. 
+All bills are paid up.
+Shared goal:
+
+Mike doing his own banking and bill paying.
+Mike living within his means.</text>
+		</slide>
+		<slide index="27" title="“Trust Me” Helping Our Young Adults Financially" titleNormalized="“trust me” helping our young adults financially" src="slide28.swf" size="7692" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="520.6650156"/>
+			</animationSteps>
+			<notes>This was a 60 minute program,</notes>
+			<notesNormalized>this was a 60 minute program,</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This was a 60 minute program,&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>“Trust Me” Helping Our Young Adults Financially
+Kenneth Kaye, Ph.D.
+</text>
+		</slide>
+	</slides>
+</presentation>

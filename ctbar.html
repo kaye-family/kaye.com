@@ -1,0 +1,43 @@
+<TITLE>Main Bar</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#FFAA11" VLINK="#FFAA11" ALINK="#FFFFFF">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+/*      
+        Important -- Image must be named in <IMG> declaration.
+        Code � 1996 Monolith Productions, Inc.
+        
+        In other words, look at our stuff for reference but learn how to do it as well.
+*/
+
+function ImageButton(theMouseOverImage,theMouseOutImage) {
+        this.ImageOver = new Image(88,25);
+        this.ImageOver.src = theMouseOverImage;
+        this.ImageOut= new Image(88,25);
+        this.ImageOut.src = theMouseOutImage;
+}
+
+function Flip(mode, imageName, position)
+{
+        //If mode, flip the image ON
+        if(mode)
+                this.document[imageName].src = ImageButton[position].ImageOver.src;
+        //Else, flip the image off
+        else
+                this.document[imageName].src = ImageButton[position].ImageOut.src;
+}       
+ImageButton[0] = new ImageButton("loctmain.gif","ltctmain.gif");
+ImageButton[1] = new ImageButton("loctpg1.gif","ltctpg1.gif");
+ImageButton[2] = new ImageButton("loctpg2.gif","ltctpg2.gif");
+ImageButton[3] = new ImageButton("loctpg3.gif","ltctpg3.gif");
+ImageButton[4] = new ImageButton("loctpg4.gif","ltctpg4.gif");
+ImageButton[5] = new ImageButton("loctpg5.gif","ltctpg5.gif");
+// -->
+</SCRIPT>
+
+<BODY BACKGROUND="bkbar.gif" BGCOLOR=#22AA22 LINK=#FFFFFF ALINK=#FFFFFF VLINK=#FFFFFF MARGINWIDTH=1 ALIGN=LEFT>
+  <A ONMOUSEOVER="Flip(1, 'button1',0)" ONMOUSEOUT="Flip(0,'button1',0)" TARGET="main" HREF="ctmain.html"><IMG WIDTH=88 HEIGHT=25 BORDER=0 SRC="ltctmain.gif" NAME="button1"></a><br>
+  <A ONMOUSEOVER="Flip(1, 'button2',1)" ONMOUSEOUT="Flip(0,'button2',1)" TARGET="main" HREF="ctpage1.html"><IMG WIDTH=88 HEIGHT=25 BORDER=0 SRC="ltctpg1.gif" NAME="button2"></a><br>
+  <A ONMOUSEOVER="Flip(1, 'button3',2)" ONMOUSEOUT="Flip(0,'button3',2)" TARGET="main" HREF="ctpage2.html"><IMG WIDTH=88 HEIGHT=25 BORDER=0 SRC="ltctpg2.gif" NAME="button3"></a><br>
+  <A ONMOUSEOVER="Flip(1, 'button5',4)" ONMOUSEOUT="Flip(0,'button5',4)" TARGET="main" HREF="ctpage4.html"><IMG WIDTH=88 HEIGHT=25 BORDER=0 SRC="ltctpg4.gif" NAME="button5"></a><br>
+  <A ONMOUSEOVER="Flip(1, 'button6',5)" ONMOUSEOUT="Flip(0,'button6',5)" TARGET="main" HREF="ctpage5.html"><IMG WIDTH=88 HEIGHT=25 BORDER=0 SRC="ltctpg5.gif" NAME="button6"></a><br>
+<p>

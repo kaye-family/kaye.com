@@ -1,0 +1,38 @@
+<!--#include virtual="/wsm/header.html" -->
+
+<p><p></p></p>
+<p><b><p><p>Welcome to the <i>WebSiteManager�</i>
+anonymous FTP upload screen. Here you can upload a file to our server.
+<p>Important: make sure the filename does not contain
+any spaces.<form ENCTYPE=multipart/form-data ACTION="/wsm/upload.cgi" METHOD=POST>
+<input type=hidden name=ftpbase value = "/opt2//anonftp/">
+<input type=hidden name=username value = "">
+<input type=hidden name=permdomain value = "">
+<hr></p><p>Upload a File to our Server:</p></p></p></b>
+<br><b><p><p><p></p></p></p></b>&nbsp;
+<table BORDER=0 CELLSPACING=3 CELLPADDING=3 BGCOLOR="#FFFFFF" >
+<tr>
+<td><b><p><p>Your E-mail Address:&nbsp;</p></p></b></td>
+
+<td><input type = text name = youremail size = 35></td>
+</tr>
+
+<tr>
+<td><b><p><p>Your Name:</p></p></b></td>
+
+<td><input type = text name = yourname size = 35></td>
+</tr>
+
+<tr>
+<td><b><p><p>Local File:</p></p></b></td>
+
+<td><input type=file name=upload size=35></td>
+</tr>
+
+<tr>
+<td ALIGN=CENTER VALIGN=CENTER COLSPAN="2"><input type=submit value = "Upload File"></td>
+</tr>
+</table>
+
+
+<!--#include virtual "/wsm/footer.html" -->

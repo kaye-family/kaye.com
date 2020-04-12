@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="770595c2-59b8-477a-9013-23888aa8750a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/family-therapy/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="595">
+                  <caret line="59" column="99" selection-start-line="59" selection-start-column="99" selection-end-line="59" selection-end-column="99" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/main.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/educational-psychology/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="225">
+                  <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.htaccess">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1281">
+                  <caret line="145" selection-start-line="145" selection-end-line="145" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/educational-psychology/IQandphil.htm">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="360">
+                  <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/early-human-development/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3038">
+                  <caret line="243" column="48" selection-start-line="243" selection-start-column="48" selection-end-line="243" selection-end-column="48" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/books/workplace-wars-and-how-to-end-them.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="720">
+                  <caret line="48" column="115" selection-start-line="48" selection-start-column="115" selection-end-line="48" selection-end-column="115" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/books/dynamics-of-family-business.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="476">
+                  <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/books/family-rules-raising-responsible-children.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="50" column="115" selection-start-line="50" selection-start-column="115" selection-end-line="50" selection-end-column="115" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/family-business/article_trustconsulting.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="525">
+                  <caret line="35" selection-start-line="35" selection-end-line="35" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/fiction/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="636">
+                  <caret line="91" column="19" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/miscellany/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="165">
+                  <caret line="11" column="53" selection-end-line="103" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/miscellany/EBFhx.htm">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2190">
+                  <caret line="146" selection-start-line="143" selection-end-line="146" />
+                  <folding>
+                    <element signature="n#style#0;n#a#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/miscellany/latke.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4650">
+                  <caret line="310" selection-start-line="310" selection-end-line="310" />
+                  <folding>
+                    <element signature="n#style#0;n#a#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="e#8976#8982#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/miscellany/nonrel.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2250">
+                  <caret line="150" selection-start-line="150" selection-end-line="150" />
+                  <folding>
+                    <element signature="n#style#0;n#a#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/miscellany/wood.htm">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1905">
+                  <caret line="127" column="46" selection-start-line="127" selection-start-column="46" selection-end-line="127" selection-end-column="46" />
+                  <folding>
+                    <element signature="n#style#0;n#a#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="480">
+                  <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/family-business/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="508">
+                  <caret line="142" column="53" selection-start-line="142" selection-start-column="53" selection-end-line="142" selection-end-column="53" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/FR.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="448">
+                  <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/fiction/mfa.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="6270">
+                  <caret line="418" selection-start-line="415" selection-end-line="418" />
+                  <folding>
+                    <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>trust me</find>
+      <find>fr.html</find>
+      <find>tm.html</find>
+      <find>admd.pdf</find>
+      <find>swfobject.js</find>
+      <find>LansbergReview.pdf</find>
+      <find>lansberg.html</find>
+      <find>lans</find>
+      <find>bornrich.pdf</find>
+      <find>trusting.pdf</find>
+      <find>Family_Rules</find>
+      <find>DFB.html</find>
+      <find>/DFB.html</find>
+      <find>payingfaircolor.pdf</find>
+      <find>payingf</find>
+      <find>href=&quot;/books/dynamics-of-family-business.html&quot; target=&quot;_blank&quot;</find>
+      <find>ww.html</find>
+      <find>/books</find>
+      <find>famtx</find>
+      <find>class=&quot;pixel&quot;</find>
+      <find>google</find>
+      <find>/mslb</find>
+      <find>/archive</find>
+      <find>archive</find>
+      <find>pubs</find>
+      <find>mslb</find>
+      <find>early-human-development</find>
+      <find>/iq</find>
+      <find>www.assoc-amazon.com</find>
+      <find>_blank</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>href='</replace>
+      <replace>&lt;a href='/$1/'&gt;</replace>
+      <replace>&lt;h3&gt;&lt;a href='$1'&gt;$2&lt;/a&gt;&lt;/h3&gt;</replace>
+      <replace>&lt;a href=&quot;$1&quot;&gt;$2&lt;/a&gt;</replace>
+      <replace>/p</replace>
+      <replace>&lt;a href=&quot;/&quot;&gt;</replace>
+      <replace>&lt;b&gt;</replace>
+      <replace>&lt;/p&gt;</replace>
+      <replace>&lt;/b&gt;</replace>
+      <replace>&lt;/p&gt;$1</replace>
+      <replace>class=&quot;</replace>
+      <replace>pixel</replace>
+      <replace>href=&quot;/</replace>
+      <replace>https://www.familybusinessmagazine.com/</replace>
+      <replace>class=&quot;tracking-pixel&quot;</replace>
+      <replace>'</replace>
+      <replace>&amp;mdash;</replace>
+      <replace>&amp;bull;</replace>
+      <replace>&lt;p&gt;</replace>
+      <replace>&lt;a class=&quot;go-home&quot; href=&quot;/family-business/&quot;&gt;All Family Business Publications&lt;/a&gt;</replace>
+      <replace>/books/DFB.html</replace>
+      <replace>href=&quot;/books/dynamics-of-family-business.html&quot;</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/family-business</dir>
+      <dir>$PROJECT_DIR$/</dir>
+      <dir>$PROJECT_DIR$/mslb</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/books/DFB.html" />
+        <option value="$PROJECT_DIR$/ETn_Investor_Pitch/index.html" />
+        <option value="$PROJECT_DIR$/css/normalize.css" />
+        <option value="$PROJECT_DIR$/fambz/saveindex.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.html" />
+        <option value="$PROJECT_DIR$/IQ/IQandphil.htm" />
+        <option value="$PROJECT_DIR$/IQ/index.html" />
+        <option value="$PROJECT_DIR$/science/index.html" />
+        <option value="$PROJECT_DIR$/mslb/index.html" />
+        <option value="$PROJECT_DIR$/fambz/index.html" />
+        <option value="$PROJECT_DIR$/fambzindex.html" />
+        <option value="$PROJECT_DIR$/article_advice.html" />
+        <option value="$PROJECT_DIR$/article_lansberg2.html" />
+        <option value="$PROJECT_DIR$/article_happy2.html" />
+        <option value="$PROJECT_DIR$/article_trustconsulting2.html" />
+        <option value="$PROJECT_DIR$/article_prisoners.html" />
+        <option value="$PROJECT_DIR$/article_mate2.html" />
+        <option value="$PROJECT_DIR$/article_conflict.html" />
+        <option value="$PROJECT_DIR$/article_conflictopportunity.html" />
+        <option value="$PROJECT_DIR$/article_happy.html" />
+        <option value="$PROJECT_DIR$/article_interview.html" />
+        <option value="$PROJECT_DIR$/article_lansberg.html" />
+        <option value="$PROJECT_DIR$/article_mate.html" />
+        <option value="$PROJECT_DIR$/family-business/article_trustconsulting2.html" />
+        <option value="$PROJECT_DIR$/family-business/article_advice.html" />
+        <option value="$PROJECT_DIR$/family-business/article_conflict.html" />
+        <option value="$PROJECT_DIR$/books/FR.html" />
+        <option value="$PROJECT_DIR$/TM.html" />
+        <option value="$PROJECT_DIR$/books/TM.html" />
+        <option value="$PROJECT_DIR$/famtx/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/fiction/mfa.html" />
+        <option value="$PROJECT_DIR$/fiction/index.html" />
+        <option value="$PROJECT_DIR$/plays/index.html" />
+        <option value="$PROJECT_DIR$/miscellany/index.html" />
+        <option value="$PROJECT_DIR$/miscellany/EBFhx.htm" />
+        <option value="$PROJECT_DIR$/miscellany/latke.html" />
+        <option value="$PROJECT_DIR$/miscellany/nonrel.html" />
+        <option value="$PROJECT_DIR$/miscellany/wood.htm" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/FR.html" />
+        <option value="$PROJECT_DIR$/books/dynamics-of-family-business.html" />
+        <option value="$PROJECT_DIR$/books/family-rules-raising-responsible-children.html" />
+        <option value="$PROJECT_DIR$/books/workplace-wars-and-how-to-end-them.html" />
+        <option value="$PROJECT_DIR$/early-human-development/index.html" />
+        <option value="$PROJECT_DIR$/family-business/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1" fullScreen="true">
+    <option name="x" value="1792" />
+    <option name="y" value="30" />
+    <option name="width" value="2048" />
+    <option name="height" value="2130" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kaye.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaye.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaye.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaye.com" type="462c0819:PsiDirectoryNode" />
+              <item name="books" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaye.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaye.com" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaye.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaye.com" type="462c0819:PsiDirectoryNode" />
+              <item name="early-human-development" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaye.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaye.com" type="462c0819:PsiDirectoryNode" />
+              <item name="educational-psychology" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaye.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaye.com" type="462c0819:PsiDirectoryNode" />
+              <item name="family-business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaye.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaye.com" type="462c0819:PsiDirectoryNode" />
+              <item name="family-therapy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaye.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaye.com" type="462c0819:PsiDirectoryNode" />
+              <item name="fiction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaye.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaye.com" type="462c0819:PsiDirectoryNode" />
+              <item name="miscellany" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/family-business" />
+      <recent name="$PROJECT_DIR$/books" />
+      <recent name="$PROJECT_DIR$/fambz" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="770595c2-59b8-477a-9013-23888aa8750a" name="Default Changelist" comment="" />
+      <created>1569884131846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569884131846</updated>
+      <workItem from="1569884133303" duration="22460000" />
+      <workItem from="1569909469680" duration="1198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23658000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-30" width="3840" height="2190" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25118607" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3296598" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="JProfiler" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/work.html" />
+    <entry file="file://$PROJECT_DIR$/sitemap.xml" />
+    <entry file="file://$PROJECT_DIR$/rss.xml" />
+    <entry file="file://$PROJECT_DIR$/ror.xml" />
+    <entry file="file://$PROJECT_DIR$/article_mate2.html" />
+    <entry file="file://$PROJECT_DIR$/family-business/article_prisoners.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article_lansberg2.html" />
+    <entry file="file://$PROJECT_DIR$/family-business/article_happy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#2182#2188#0" expanded="true" />
+            <element signature="e#2220#2226#0" expanded="true" />
+            <element signature="e#6637#6643#0" expanded="true" />
+            <element signature="e#6653#6659#0" expanded="true" />
+            <element signature="e#7118#7124#1" expanded="true" />
+            <element signature="e#11417#11423#0" expanded="true" />
+            <element signature="e#11430#11436#0" expanded="true" />
+            <element signature="e#12140#12146#0" expanded="true" />
+            <element signature="e#12294#12300#0" expanded="true" />
+            <element signature="e#12365#12371#0" expanded="true" />
+            <element signature="e#12385#12391#0" expanded="true" />
+            <element signature="e#12434#12440#0" expanded="true" />
+            <element signature="e#12478#12484#0" expanded="true" />
+            <element signature="e#12512#12518#0" expanded="true" />
+            <element signature="e#12531#12537#0" expanded="true" />
+            <element signature="e#12711#12717#0" expanded="true" />
+            <element signature="e#12721#12727#0" expanded="true" />
+            <element signature="e#13638#13644#0" expanded="true" />
+            <element signature="e#13821#13827#0" expanded="true" />
+            <element signature="e#14492#14498#0" expanded="true" />
+            <element signature="e#14686#14692#0" expanded="true" />
+            <element signature="e#15174#15180#0" expanded="true" />
+            <element signature="e#15193#15199#0" expanded="true" />
+            <element signature="e#15224#15230#0" expanded="true" />
+            <element signature="e#15245#15251#0" expanded="true" />
+            <element signature="e#17650#17656#0" expanded="true" />
+            <element signature="e#17663#17669#0" expanded="true" />
+            <element signature="e#18572#18578#0" expanded="true" />
+            <element signature="e#18585#18591#0" expanded="true" />
+            <element signature="e#18915#18921#0" expanded="true" />
+            <element signature="e#18935#18941#0" expanded="true" />
+            <element signature="e#19344#19350#0" expanded="true" />
+            <element signature="e#19362#19368#0" expanded="true" />
+            <element signature="e#19714#19720#0" expanded="true" />
+            <element signature="e#19727#19733#0" expanded="true" />
+            <element signature="e#20017#20023#0" expanded="true" />
+            <element signature="e#20037#20043#0" expanded="true" />
+            <element signature="e#21440#21446#0" expanded="true" />
+            <element signature="e#21457#21463#0" expanded="true" />
+            <element signature="e#22409#22415#0" expanded="true" />
+            <element signature="e#22428#22434#0" expanded="true" />
+            <element signature="e#22495#22501#0" expanded="true" />
+            <element signature="e#22597#22603#0" expanded="true" />
+            <element signature="e#24253#24259#0" expanded="true" />
+            <element signature="e#24386#24392#0" expanded="true" />
+            <element signature="e#24890#24896#1" expanded="true" />
+            <element signature="e#25796#25801#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/family-business/article_interview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1315">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="n#style#0;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#b#0;n#p#0;n#td#0;n#tr#0;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#td#0;n#tr#0;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#b#0;n#p#0;n#td#1;n#tr#0;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#td#1;n#tr#0;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#1;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#td#1;n#tr#1;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#2;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#td#0;n#tr#2;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#2;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#td#1;n#tr#2;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#3;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#td#0;n#tr#3;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#3;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#td#1;n#tr#3;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#4;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#td#0;n#tr#4;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#4;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#td#1;n#tr#4;n#table#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/family-business/article_mate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#5891#5898#0" expanded="true" />
+            <element signature="e#5981#5987#0" expanded="true" />
+            <element signature="e#5995#6001#0" expanded="true" />
+            <element signature="e#6714#6720#0" expanded="true" />
+            <element signature="e#6724#6730#0" expanded="true" />
+            <element signature="e#6781#6788#0" expanded="true" />
+            <element signature="e#7115#7121#0" expanded="true" />
+            <element signature="e#7133#7139#0" expanded="true" />
+            <element signature="e#7246#7253#0" expanded="true" />
+            <element signature="e#9656#9662#0" expanded="true" />
+            <element signature="e#9672#9678#0" expanded="true" />
+            <element signature="e#9970#9977#0" expanded="true" />
+            <element signature="e#10001#10008#0" expanded="true" />
+            <element signature="e#10554#10560#0" expanded="true" />
+            <element signature="e#10564#10570#0" expanded="true" />
+            <element signature="e#12310#12317#0" expanded="true" />
+            <element signature="e#12351#12358#0" expanded="true" />
+            <element signature="e#12859#12865#0" expanded="true" />
+            <element signature="e#12873#12879#0" expanded="true" />
+            <element signature="e#13553#13560#0" expanded="true" />
+            <element signature="e#13566#13573#0" expanded="true" />
+            <element signature="e#14269#14276#0" expanded="true" />
+            <element signature="e#14759#14766#0" expanded="true" />
+            <element signature="e#15698#15704#0" expanded="true" />
+            <element signature="e#15713#15719#0" expanded="true" />
+            <element signature="e#17777#17784#0" expanded="true" />
+            <element signature="e#17859#17866#0" expanded="true" />
+            <element signature="e#19949#19955#0" expanded="true" />
+            <element signature="e#19960#19966#0" expanded="true" />
+            <element signature="e#19982#19988#0" expanded="true" />
+            <element signature="e#19998#20004#0" expanded="true" />
+            <element signature="e#20361#20367#0" expanded="true" />
+            <element signature="e#20381#20387#0" expanded="true" />
+            <element signature="e#21147#21153#0" expanded="true" />
+            <element signature="e#21167#21173#0" expanded="true" />
+            <element signature="e#22134#22141#0" expanded="true" />
+            <element signature="e#22205#22212#0" expanded="true" />
+            <element signature="e#23744#23750#0" expanded="true" />
+            <element signature="e#23799#23805#0" expanded="true" />
+            <element signature="e#23805#23812#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fambzindex.html" />
+    <entry file="file://$PROJECT_DIR$/family-business/article_advice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1030">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+          <folding>
+            <element signature="n#style#0;n#p#13;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#b#0;n#p#13;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/family-business/article_conflict.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="53" column="95" selection-start-line="53" selection-start-column="95" selection-end-line="53" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/family-business/saveindex.html" />
+    <entry file="file://$PROJECT_DIR$/TM.html" />
+    <entry file="file://$PROJECT_DIR$/books/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books/TM.html" />
+    <entry file="file://$PROJECT_DIR$/tab5.gif" />
+    <entry file="file://$PROJECT_DIR$/tab1.gif" />
+    <entry file="file://$PROJECT_DIR$/tour1.html" />
+    <entry file="file://$PROJECT_DIR$/swfobject.js" />
+    <entry file="file://$PROJECT_DIR$/family-business/article_lansberg.html" />
+    <entry file="file://$PROJECT_DIR$/family-business/RespVoiceQuery.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1255">
+          <caret line="435" lean-forward="true" selection-start-line="435" selection-end-line="435" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btmbar.jpg" />
+    <entry file="file://$PROJECT_DIR$/coverfrTIF.tif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/family-business/article_conflictopportunity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="97" column="48" selection-start-line="97" selection-start-column="48" selection-end-line="97" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SubVerbInQns.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2003">
+          <caret line="427" selection-start-line="427" selection-end-line="427" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/educational-psychology/crescat.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/educational-psychology/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/educational-psychology/IQandphil.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/family-business/article_trustconsulting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plays/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="57" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miscellany/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="53" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miscellany/EBFhx.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="146" selection-start-line="143" selection-end-line="146" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miscellany/latke.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4650">
+          <caret line="310" selection-start-line="310" selection-end-line="310" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#8976#8982#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miscellany/nonrel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miscellany/wood.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="46" selection-start-line="127" selection-start-column="46" selection-end-line="127" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiction/mfa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6270">
+          <caret line="418" selection-start-line="415" selection-end-line="418" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books/family-rules-raising-responsible-children.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="50" column="115" selection-start-line="50" selection-start-column="115" selection-end-line="50" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books/workplace-wars-and-how-to-end-them.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="115" selection-start-line="48" selection-start-column="115" selection-end-line="48" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/family-therapy/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="59" column="99" selection-start-line="59" selection-start-column="99" selection-end-line="59" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books/dynamics-of-family-business.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/early-human-development/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3038">
+          <caret line="243" column="48" selection-start-line="243" selection-start-column="48" selection-end-line="243" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FR.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/family-business/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="142" column="53" selection-start-line="142" selection-start-column="53" selection-end-line="142" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiction/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="91" column="19" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

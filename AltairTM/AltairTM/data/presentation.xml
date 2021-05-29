@@ -309,7 +309,7 @@
 		<playback autoStart="1" resumePresentationPlayback="0" syncWithVideoNarration="1" enableVideoControl="1"/>
 	</settings>
 	<slides embedded="0">
-		<slide index="0" title="“Trust Me” Helping Our Young Adults Financially" titleNormalized="“trust me” helping our young adults financially" src="slide1.swf" size="7676" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
+		<slide index="0" title="&ldquo;Trust Me&rdquo; Helping Our Young Adults Financially" titleNormalized="&ldquo;trust me&rdquo; helping our young adults financially" src="slide1.swf" size="7676" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -327,7 +327,7 @@ Nice to talk about how to avoid some of the problems families bring me in to dea
 thanks to host, nice to see clients in audience
 nice to talk about how to avoid some of the problems families bring me in to deal with conflict</notesNormalized>
 			<notesHtml>&lt;p&gt;&lt;font size="18"&gt;Note cards as used at University Club 4/25/2013:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt;Thanks to host, nice to see clients in audience&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt;Nice to talk about how to avoid some of the problems families bring me in to deal with conflict&lt;/font&gt;&lt;/p&gt;</notesHtml>
-			<text>“Trust Me” Helping Our Young Adults Financially
+			<text>&ldquo;Trust Me&rdquo; Helping Our Young Adults Financially
 Kenneth Kaye, Ph.D.
 </text>
 		</slide>
@@ -343,21 +343,21 @@ Kenneth Kaye, Ph.D.
 				<step start="2" end="2" playTime="0.0010000" pauseTime="39.7270006"/>
 				<step start="3" end="3" playTime="0.0010000" pauseTime="50.6829943"/>
 			</animationSteps>
-			<notes>“Parent’s opps” means we want them to have many of the costly things that we hope will enhance their development, so we migh err on the side of yes.
+			<notes>&ldquo;Parent’s opps&rdquo; means we want them to have many of the costly things that we hope will enhance their development, so we migh err on the side of yes.
 
 See hands of those with children or grandchn 16+
 How many at lest one responsibly seeks and follows instruction and advice about money matters
-How many “other”:
+How many &ldquo;other&rdquo;:
 
  </notes>
-			<notesNormalized>“parent’s opps” means we want them to have many of the costly things that we hope will enhance their development, so we migh err on the side of yes.
+			<notesNormalized>&ldquo;parent’s opps&rdquo; means we want them to have many of the costly things that we hope will enhance their development, so we migh err on the side of yes.
 
 see hands of those with children or grandchn 16+
 how many at lest one responsibly seeks and follows instruction and advice about money matters
-how many “other”:
+how many &ldquo;other&rdquo;:
 
 </notesNormalized>
-			<notesHtml>&lt;p&gt;&lt;font size="18"&gt;“Parent’s opps” means we want them to have many of the costly things that we hope will enhance their development, so we migh err on the side of yes.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt;See hands of those with children or grandchn 16+&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt;How many at lest one responsibly seeks and follows instruction and advice about money matters&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt;How many “other”:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<notesHtml>&lt;p&gt;&lt;font size="18"&gt;&ldquo;Parent’s opps&rdquo; means we want them to have many of the costly things that we hope will enhance their development, so we migh err on the side of yes.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt;See hands of those with children or grandchn 16+&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt;How many at lest one responsibly seeks and follows instruction and advice about money matters&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt;How many &ldquo;other&rdquo;:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="18"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
 			<text>Nice problems to have:
 Children’s expectations
 Parents’ opportunities
@@ -480,9 +480,9 @@ unique to humans</notesNormalized>
 			<animationSteps>
 				<step start="0" end="0" playTime="0.0010000" pauseTime="11.3949999"/>
 			</animationSteps>
-			<notes>Familiar – low risk, low return</notes>
-			<notesNormalized>familiar – low risk, low return</notesNormalized>
-			<notesHtml>&lt;p&gt;&lt;font size="20"&gt;Familiar – low risk, low return&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<notes>Familiar &mdash; low risk, low return</notes>
+			<notesNormalized>familiar &mdash; low risk, low return</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="20"&gt;Familiar &mdash; low risk, low return&lt;/font&gt;&lt;/p&gt;</notesHtml>
 			<text>●
 Measure of risk in investments 
 Annualized rate of return 
@@ -636,15 +636,15 @@ ADULT</text>
 			<animationSteps>
 				<step start="0" end="0" playTime="0.0010000" pauseTime="118.4769968"/>
 			</animationSteps>
-			<notes>Which works both ways –
+			<notes>Which works both ways &mdash;
 Employees and owners, parents and children, current board and successor candidates, etc
-Our instinct is to TRUST – that’s the default. It’s actually being cautious that’s against ou instincts. Reaction to being disappointed is to go all the way to the opposite extreme, of distrust.
-We want trusting our kids to be easy – but there’s no reason it should be. There’s too much to acquire culturally rather than instinctively, for it to be easy</notes>
-			<notesNormalized>which works both ways –
+Our instinct is to TRUST &mdash; that’s the default. It’s actually being cautious that’s against ou instincts. Reaction to being disappointed is to go all the way to the opposite extreme, of distrust.
+We want trusting our kids to be easy &mdash; but there’s no reason it should be. There’s too much to acquire culturally rather than instinctively, for it to be easy</notes>
+			<notesNormalized>which works both ways &mdash;
 employees and owners, parents and children, current board and successor candidates, etc
-our instinct is to trust – that’s the default. it’s actually being cautious that’s against ou instincts. reaction to being disappointed is to go all the way to the opposite extreme, of distrust.
-we want trusting our kids to be easy – but there’s no reason it should be. there’s too much to acquire culturally rather than instinctively, for it to be easy</notesNormalized>
-			<notesHtml>&lt;p&gt;&lt;font size="20"&gt;Which works both ways –&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;Employees and owners, parents and children, current board and successor candidates, etc&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;Our instinct is to TRUST – that’s the default. It’s actually being cautious that’s against ou instincts. Reaction to being disappointed is to go all the way to the opposite extreme, of distrust.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;We want trusting our kids to be easy – but there’s no reason it should be. There’s too much to acquire culturally rather than instinctively, for it to be easy&lt;/font&gt;&lt;/p&gt;</notesHtml>
+our instinct is to trust &mdash; that’s the default. it’s actually being cautious that’s against ou instincts. reaction to being disappointed is to go all the way to the opposite extreme, of distrust.
+we want trusting our kids to be easy &mdash; but there’s no reason it should be. there’s too much to acquire culturally rather than instinctively, for it to be easy</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="20"&gt;Which works both ways &mdash;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;Employees and owners, parents and children, current board and successor candidates, etc&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;Our instinct is to TRUST &mdash; that’s the default. It’s actually being cautious that’s against ou instincts. Reaction to being disappointed is to go all the way to the opposite extreme, of distrust.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;We want trusting our kids to be easy &mdash; but there’s no reason it should be. There’s too much to acquire culturally rather than instinctively, for it to be easy&lt;/font&gt;&lt;/p&gt;</notesHtml>
 			<text>Trust the Process !</text>
 		</slide>
 		<slide index="15" title="" titleNormalized="" src="slide16.swf" size="17018" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15">
@@ -775,7 +775,7 @@ but COSTLY</text>
 			<notesHtml/>
 			<text>South Korea’s concessions
 OPPORTUNITY WASTED
-“TRUSTPOLITIK” (President Park Geun-hye)
+&ldquo;TRUSTPOLITIK&rdquo; (President Park Geun-hye)
 productive relationship
 North Korea’s behavior
 aggressive
@@ -800,20 +800,20 @@ DANGER ! HIGH RISK</text>
 Give me some examples of your concerns (this didn’t work well, I had to give examples:
 How much allowance at age 12?
 At what age should a trust distribute?
-At what age tell kids what they are “worth” (and please don’t phrase it like that)
+At what age tell kids what they are &ldquo;worth&rdquo; (and please don’t phrase it like that)
 Should parents buy a condo for a college student?
 Pay for married daughter’s home?
-Answers:  It all depends – where you are on the trusting process, in general and specifically, is one of the factors on which it depends</notes>
+Answers:  It all depends &mdash; where you are on the trusting process, in general and specifically, is one of the factors on which it depends</notes>
 			<notesNormalized>denial on both sides.
 
 give me some examples of your concerns (this didn’t work well, i had to give examples:
 how much allowance at age 12?
 at what age should a trust distribute?
-at what age tell kids what they are “worth” (and please don’t phrase it like that)
+at what age tell kids what they are &ldquo;worth&rdquo; (and please don’t phrase it like that)
 should parents buy a condo for a college student?
 pay for married daughter’s home?
-answers: it all depends – where you are on the trusting process, in general and specifically, is one of the factors on which it depends</notesNormalized>
-			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Denial on both sides.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Give me some examples of your concerns (this didn’t work well, I had to give examples:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;How much allowance at age 12?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;At what age should a trust distribute?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;At what age tell kids what they are “worth” (and please don’t phrase it like that)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Should parents buy a condo for a college student?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Pay for married daughter’s home?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Answers:  It all depends – where you are on the trusting process, in general and specifically, is one of the factors on which it depends&lt;/font&gt;&lt;/p&gt;</notesHtml>
+answers: it all depends &mdash; where you are on the trusting process, in general and specifically, is one of the factors on which it depends</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Denial on both sides.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Give me some examples of your concerns (this didn’t work well, I had to give examples:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;How much allowance at age 12?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;At what age should a trust distribute?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;At what age tell kids what they are &ldquo;worth&rdquo; (and please don’t phrase it like that)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Should parents buy a condo for a college student?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Pay for married daughter’s home?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Answers:  It all depends &mdash; where you are on the trusting process, in general and specifically, is one of the factors on which it depends&lt;/font&gt;&lt;/p&gt;</notesHtml>
 			<text>Basic Financial Maturity
 Knowledge plus ?
 Confidence + Caution
@@ -832,9 +832,9 @@ Beware wishful DENIAL</text>
 				<step start="3" end="3" playTime="0.0010000" pauseTime="4.6360001"/>
 				<step start="4" end="4" playTime="0.0010000" pauseTime="401.2230014"/>
 			</animationSteps>
-			<notes>When you make rules about $$ (like those the panel mentioned), you aren’t merely teaching about money – you’re teaching about responsibility in general and you are also teaching that when you make a Deal, you mean it.</notes>
-			<notesNormalized>when you make rules about $$ (like those the panel mentioned), you aren’t merely teaching about money – you’re teaching about responsibility in general and you are also teaching that when you make a deal, you mean it.</notesNormalized>
-			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;When you make rules about $$ (like those the panel mentioned), you aren’t merely teaching about money – you’re teaching about responsibility in general and you are also teaching that when you make a Deal, you mean it.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<notes>When you make rules about $$ (like those the panel mentioned), you aren’t merely teaching about money &mdash; you’re teaching about responsibility in general and you are also teaching that when you make a Deal, you mean it.</notes>
+			<notesNormalized>when you make rules about $$ (like those the panel mentioned), you aren’t merely teaching about money &mdash; you’re teaching about responsibility in general and you are also teaching that when you make a deal, you mean it.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;When you make rules about $$ (like those the panel mentioned), you aren’t merely teaching about money &mdash; you’re teaching about responsibility in general and you are also teaching that when you make a Deal, you mean it.&lt;/font&gt;&lt;/p&gt;</notesHtml>
 			<text>Family Rules must be:
 Clear
 Written
@@ -850,7 +850,7 @@ Enforceable (and consistently enforced)</text>
 			<animationSteps>
 				<step start="0" end="0" playTime="0.0010000" pauseTime="93.2160029"/>
 			</animationSteps>
-			<notes>“Money doesn’t spoil children, parents do (sorry for paraphrasing NRA)
+			<notes>&ldquo;Money doesn’t spoil children, parents do (sorry for paraphrasing NRA)
 
 How would you structure a Deal for the child to earn something you don’t want them to have? Answer: Don’t.
 
@@ -859,7 +859,7 @@ There’s nothing wrong with using $$ to manipulate children as long as they get
 A debit card is a Deal.
 
 Hope’s car is a common example. And I didn’t do the same for my son!</notes>
-			<notesNormalized>“money doesn’t spoil children, parents do (sorry for paraphrasing nra)
+			<notesNormalized>&ldquo;money doesn’t spoil children, parents do (sorry for paraphrasing nra)
 
 how would you structure a deal for the child to earn something you don’t want them to have? answer: don’t.
 
@@ -868,7 +868,7 @@ there’s nothing wrong with using $$ to manipulate children as long as they get
 a debit card is a deal.
 
 hope’s car is a common example. and i didn’t do the same for my son!</notesNormalized>
-			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;“Money doesn’t spoil children, parents do (sorry for paraphrasing NRA)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;How would you structure a Deal for the child to earn something you don’t want them to have? Answer: Don’t.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;There’s nothing wrong with using $$ to manipulate children as long as they get something they want and something you want them to have.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;A debit card is a Deal.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Hope’s car is a common example. And I didn’t do the same for my son!&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;&ldquo;Money doesn’t spoil children, parents do (sorry for paraphrasing NRA)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;How would you structure a Deal for the child to earn something you don’t want them to have? Answer: Don’t.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;There’s nothing wrong with using $$ to manipulate children as long as they get something they want and something you want them to have.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;A debit card is a Deal.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Hope’s car is a common example. And I didn’t do the same for my son!&lt;/font&gt;&lt;/p&gt;</notesHtml>
 			<text>Financial Deals must be:
 Clear
 Written
@@ -938,10 +938,10 @@ Advanced Course: AMD and its Antidotes</text>
 				<step start="180" end="204" playTime="1.0000000" pauseTime="116.6889987"/>
 			</animationSteps>
 			<notes>Explain that it’s just a specific example, the reasoning I use. 
-Encourage questions, objections: “I see some anxioous or restless faces”</notes>
+Encourage questions, objections: &ldquo;I see some anxioous or restless faces&rdquo;</notes>
 			<notesNormalized>explain that it’s just a specific example, the reasoning i use. 
-encourage questions, objections: “i see some anxioous or restless faces”</notesNormalized>
-			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Explain that it’s just a specific example, the reasoning I use. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Encourage questions, objections: “I see some anxioous or restless faces”&lt;/font&gt;&lt;/p&gt;</notesHtml>
+encourage questions, objections: &ldquo;i see some anxioous or restless faces&rdquo;</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Explain that it’s just a specific example, the reasoning I use. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Encourage questions, objections: &ldquo;I see some anxioous or restless faces&rdquo;&lt;/font&gt;&lt;/p&gt;</notesHtml>
 			<text>Mike’s Deal
 Parents agree to:
 
@@ -960,7 +960,7 @@ Shared goal:
 Mike doing his own banking and bill paying.
 Mike living within his means.</text>
 		</slide>
-		<slide index="27" title="“Trust Me” Helping Our Young Adults Financially" titleNormalized="“trust me” helping our young adults financially" src="slide28.swf" size="7692" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27">
+		<slide index="27" title="&ldquo;Trust Me&rdquo; Helping Our Young Adults Financially" titleNormalized="&ldquo;trust me&rdquo; helping our young adults financially" src="slide28.swf" size="7692" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -972,7 +972,7 @@ Mike living within his means.</text>
 			<notes>This was a 60 minute program,</notes>
 			<notesNormalized>this was a 60 minute program,</notesNormalized>
 			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This was a 60 minute program,&lt;/font&gt;&lt;/p&gt;</notesHtml>
-			<text>“Trust Me” Helping Our Young Adults Financially
+			<text>&ldquo;Trust Me&rdquo; Helping Our Young Adults Financially
 Kenneth Kaye, Ph.D.
 </text>
 		</slide>
